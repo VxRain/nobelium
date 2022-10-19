@@ -67,6 +67,9 @@ pre[class*='language-'] {
 .notion-quote {
   padding: 0.2em 0.9em;
 }
+.notion-toggle {
+  max-width: 100%;
+}
 .notion-collection {
   @apply max-w-full;
 }
