@@ -70,6 +70,9 @@ pre[class*='language-'] {
 .notion-toggle {
   max-width: 100%;
 }
+.notion-list {
+  max-width: 100%;
+}
 .notion-collection {
   @apply max-w-full;
 }
